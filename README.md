@@ -2,7 +2,7 @@
 u can check this is not a virus (Defender or others detects false positive). im a virus tester and i can send u source code just add me on discord Rolesional#1337  For Virus tests: https://Tria.ge/ :)
 
 ## What is this?
-This is not synapse x or synapse x crack or others synapse is uncrackable (Actually crackable but a problem: U NEED CONNECT TO API FOR SYNAPSE DLL INJECT)
+This is not synapse x or synapse x crack or others, synapse is uncrackable (Actually crackable but a problem: U NEED CONNECT TO API FOR SYNAPSE DLL INJECT)
 Don't download any "Synapse X Crack" file because Synapse X Cracks are always viruses.
 This is just Synapse Remake uses WRD API and KRNL API.
 
