@@ -19,5 +19,12 @@ U can't get synapse free u need buy. if u get ur friend's synapse account maybe 
 ## Terms of use
 I don't care u can use scripts on any game because im cheating on games too lol.
 
+## Links
+- [Synapse X Official Website](https://x.synapse.to/)
+- [Synapse X Old Source Code](https://github.com/Acrillis/SynapseX)
+- [WeAreDevs Official Website](https://wearedevs.net)
+- [WeAreDevs Exploit API](https://wearedevs.net/d/Exploit%20API)
+- [KRNL Official Website](https://krnl.place/)
+
 ## I have problem what can I do?
 Add me on discord - Rolesional#1337
